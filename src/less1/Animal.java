@@ -33,7 +33,7 @@ public class Animal {
         return owner;
     }
 
-    private void wakeup() {
+    protected void wakeup() {
         System.out.println("Animal is wakeup!");
     }
 
@@ -41,22 +41,36 @@ public class Animal {
         System.out.println("Animal is wakeup in " + time);
     }
 
-    private void eat() {
+    protected void eat() {
         System.out.println("Animal eat");
     }
 
-    private void play() {
+    protected void play() {
         System.out.println("Animal played");
     }
 
-    private void sleep() {
+    protected void sleep() {
         System.out.println("Animal slipping");
     }
 
-    public void lifiCycle () {
+    protected void toGo() {
+        System.out.println("Animal goes");
+    }
+
+    protected void swim() {
+        System.out.println("Animal swims");
+    }
+    protected void fly() {
+        System.out.println("Animal flies");
+    }
+
+    public void lifeCycle() {
         wakeup();
         eat();
         play();
+        toGo();
+        swim();
+        fly();
         sleep();
     }
 

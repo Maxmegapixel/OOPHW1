@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd884c70-afec-48a5-8029-42924e4bf3b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/less1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/less1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/less1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/less1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="fd884c70-afec-48a5-8029-42924e4bf3b8" name="Changes" comment="part2">
+      <change afterPath="$PROJECT_DIR$/src/less1/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less1/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less1/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less1/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/less1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/less1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/less1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/less1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +94,15 @@
       <workItem from="1702913140267" duration="4651000" />
       <workItem from="1703011626802" duration="285000" />
       <workItem from="1703011938758" duration="2607000" />
-      <workItem from="1703089317329" duration="579000" />
+      <workItem from="1703089317329" duration="5843000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="part2" />
+    <option name="LAST_COMMIT_MESSAGE" value="part2" />
   </component>
 </project>

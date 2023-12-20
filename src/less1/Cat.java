@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Cat extends Animal {// extends расширяет класс (Cft класс наследник класса Animal)
 
-    private int legsCount;
+    private int legsCount; // количество лап
 
 
     public Cat(String name, LocalDate birthDate, List<String> vaccinations, String illness, String owner, int legsCount) {
@@ -15,6 +15,16 @@ public class Cat extends Animal {// extends расширяет класс (Cft �
 
     public int getLegsCount() {
         return legsCount;
+    }
+
+    @Override
+    protected void fly() {
+        System.out.println("Cat don't flies");
+    }
+
+    @Override
+    protected void swim() {
+        System.out.println("Cat don't swims");
     }
 
 }

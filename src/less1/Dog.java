@@ -9,4 +9,9 @@ public class Dog extends Animal {
 
     }
 
+    @Override
+    protected void fly() {
+        System.out.println("Dog don't flies");
+    }
+
 }
